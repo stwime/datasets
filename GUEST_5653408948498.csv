@@ -1,0 +1,402 @@
+Schluessel; Name; Wert
+01001; Flensburg, Kreisfreie Stadt; 56.7
+01002; Kiel, Landeshauptstadt, Kreisfreie Stadt; 59.4
+01003; Lübeck, Hansestadt, Kreisfreie Stadt; 61.9
+01004; Neumünster, Kreisfreie Stadt; 69.6
+01051; Dithmarschen, Landkreis; 70.8
+01053; Herzogtum Lauenburg, Landkreis; 71.0
+01054; Nordfriesland, Landkreis; 66.9
+01055; Ostholstein, Landkreis; 68.7
+01056; Pinneberg, Landkreis; 64.7
+01057; Plön, Landkreis; 59.8
+01058; Rendsburg-Eckernförde, Landkreis; 61.2
+01059; Schleswig-Flensburg, Landkreis; 66.5
+01060; Segeberg, Landkreis; 63.3
+01061; Steinburg, Landkreis; 60.4
+01062; Stormarn, Landkreis; 52.1
+02000; Hamburg; 57.1
+03101; Braunschweig, Kreisfreie Stadt; 62.5
+03102; Salzgitter, Kreisfreie Stadt; 65.4
+03103; Wolfsburg, Kreisfreie Stadt; 62.1
+03151; Gifhorn, Landkreis; 67.4
+03153; Goslar, Landkreis; 67.7
+03154; Helmstedt, Landkreis; 64.7
+03155; Northeim, Landkreis; 63.3
+03157; Peine, Landkreis; 73.1
+03158; Wolfenbüttel, Landkreis; 71.9
+03159; Göttingen, Landkreis; 60.5
+03241; Region Hannover, Landkreis; 62.5
+03251; Diepholz, Landkreis; 66.0
+03252; Hameln-Pyrmont, Landkreis; 68.0
+03254; Hildesheim, Landkreis; 56.8
+03255; Holzminden, Landkreis; 59.3
+03256; Nienburg (Weser), Landkreis; 62.2
+03257; Schaumburg, Landkreis; 66.7
+03351; Celle, Landkreis; 63.4
+03352; Cuxhaven, Landkreis; 61.6
+03353; Harburg, Landkreis; 54.1
+03354; Lüchow-Dannenberg, Landkreis; 69.0
+03355; Lüneburg, Landkreis; 65.7
+03356; Osterholz, Landkreis; 64.3
+03357; Rotenburg (Wümme), Landkreis; 70.3
+03358; Heidekreis, Landkreis; 52.6
+03359; Stade, Landkreis; 50.5
+03360; Uelzen, Landkreis; 63.6
+03361; Verden, Landkreis; 72.4
+03401; Delmenhorst, Kreisfreie Stadt; 69.0
+03402; Emden, Kreisfreie Stadt; 59.6
+03403; Oldenburg (Oldenburg), Kreisfreie Stadt; 60.4
+03404; Osnabrück, Kreisfreie Stadt; 60.4
+03405; Wilhelmshaven, Kreisfreie Stadt; 58.6
+03451; Ammerland, Landkreis; 62.0
+03452; Aurich, Landkreis; 64.0
+03453; Cloppenburg, Landkreis; 64.6
+03454; Emsland, Landkreis; 60.1
+03455; Friesland, Landkreis; 69.1
+03456; Grafschaft Bentheim, Landkreis; 54.4
+03457; Leer, Landkreis; 57.0
+03458; Oldenburg, Landkreis; 68.4
+03459; Osnabrück, Landkreis; 69.9
+03460; Vechta, Landkreis; 67.3
+03461; Wesermarsch, Landkreis; 60.5
+03462; Wittmund, Landkreis; 59.5
+04011; Bremen, Kreisfreie Stadt; 63.4
+04012; Bremerhaven, Kreisfreie Stadt; 52.1
+05111; Düsseldorf, Kreisfreie Stadt; 58.1
+05112; Duisburg, Kreisfreie Stadt; 60.6
+05113; Essen, Kreisfreie Stadt; 62.7
+05114; Krefeld, Kreisfreie Stadt; 56.3
+05116; Mönchengladbach, Kreisfreie Stadt; 55.0
+05117; Mülheim an der Ruhr, Kreisfreie Stadt; 56.1
+05119; Oberhausen, Kreisfreie Stadt; 60.7
+05120; Remscheid, Kreisfreie Stadt; 55.8
+05122; Solingen, Kreisfreie Stadt; 50.5
+05124; Wuppertal, Kreisfreie Stadt; 59.3
+05154; Kleve, Kreis; 64.5
+05158; Mettmann, Kreis; 63.9
+05162; Rhein-Kreis Neuss; 53.9
+05166; Viersen, Kreis; 59.6
+05170; Wesel, Kreis; 58.1
+05314; Bonn, Kreisfreie Stadt; 57.4
+05315; Köln, Kreisfreie Stadt; 55.9
+05316; Leverkusen, Kreisfreie Stadt; 63.5
+05334; Städteregion Aachen (einschl. Stadt Aachen); 58.2
+05358; Düren, Kreis; 56.6
+05362; Rhein-Erft-Kreis; 59.7
+05366; Euskirchen, Kreis; 68.8
+05370; Heinsberg, Kreis; 58.9
+05374; Oberbergischer Kreis; 58.2
+05378; Rheinisch-Bergischer Kreis; 64.3
+05382; Rhein-Sieg-Kreis; 61.0
+05512; Bottrop, Kreisfreie Stadt; 62.9
+05513; Gelsenkirchen, Kreisfreie Stadt; 62.9
+05515; Münster, Kreisfreie Stadt; 60.4
+05554; Borken, Kreis; 67.6
+05558; Coesfeld, Kreis; 64.2
+05562; Recklinghausen, Kreis; 60.0
+05566; Steinfurt, Kreis; 60.2
+05570; Warendorf, Kreis; 58.9
+05711; Bielefeld, Kreisfreie Stadt; 61.2
+05754; Gütersloh, Kreis; 69.3
+05758; Herford, Kreis; 51.7
+05762; Höxter, Kreis; 59.6
+05766; Lippe, Kreis; 64.5
+05770; Minden-Lübbecke, Kreis; 62.0
+05774; Paderborn, Kreis; 59.8
+05911; Bochum, Kreisfreie Stadt; 57.1
+05913; Dortmund, Kreisfreie Stadt; 64.1
+05914; Hagen, Kreisfreie Stadt; 65.7
+05915; Hamm, Kreisfreie Stadt; 55.9
+05916; Herne, Kreisfreie Stadt; 65.0
+05954; Ennepe-Ruhr-Kreis; 56.6
+05958; Hochsauerlandkreis; 61.0
+05962; Märkischer Kreis; 59.2
+05966; Olpe, Kreis; 65.1
+05970; Siegen-Wittgenstein, Kreis; 62.3
+05974; Soest, Kreis; 69.3
+05978; Unna, Kreis; 65.4
+06411; Darmstadt, Kreisfreie Stadt; 64.9
+06412; Frankfurt am Main, Kreisfreie Stadt; 56.9
+06413; Offenbach am Main, Kreisfreie Stadt; 61.0
+06414; Wiesbaden, Landeshauptstadt, Kreisfreie Stadt; 49.7
+06431; Bergstraße, Landkreis; 54.2
+06432; Darmstadt-Dieburg, Landkreis; 53.7
+06433; Groß-Gerau, Landkreis; 63.3
+06434; Hochtaunuskreis; 59.6
+06435; Main-Kinzig-Kreis; 66.8
+06436; Main-Taunus-Kreis; 66.9
+06437; Odenwaldkreis; 66.7
+06438; Offenbach, Landkreis; 68.7
+06439; Rheingau-Taunus-Kreis; 59.2
+06440; Wetteraukreis; 60.9
+06531; Gießen, Landkreis; 66.9
+06532; Lahn-Dill-Kreis; 64.3
+06533; Limburg-Weilburg, Landkreis; 56.3
+06534; Marburg-Biedenkopf, Landkreis; 60.4
+06535; Vogelsbergkreis; 61.7
+06611; Kassel, Kreisfreie Stadt; 56.6
+06631; Fulda, Landkreis; 57.5
+06632; Hersfeld-Rotenburg, Landkreis; 50.0
+06633; Kassel, Landkreis; 59.6
+06634; Schwalm-Eder-Kreis; 69.8
+06635; Waldeck-Frankenberg, Landkreis; 62.6
+06636; Werra-Meißner-Kreis; 62.8
+07111; Koblenz, Kreisfreie Stadt; 62.6
+07131; Ahrweiler, Landkreis; 61.3
+07132; Altenkirchen (Westerwald), Landkreis; 56.8
+07133; Bad Kreuznach, Landkreis; 52.7
+07134; Birkenfeld, Landkreis; 76.0
+07135; Cochem-Zell, Landkreis; 44.0
+07137; Mayen-Koblenz, Landkreis; 52.6
+07138; Neuwied, Landkreis; 67.8
+07140; Rhein-Hunsrück-Kreis; 61.8
+07141; Rhein-Lahn-Kreis; 63.9
+07143; Westerwaldkreis; 61.5
+07211; Trier, Kreisfreie Stadt; 52.0
+07231; Bernkastel-Wittlich, Landkreis; 75.0
+07232; Eifelkreis Bitburg-Prüm; 76.1
+07233; Vulkaneifel, Landkreis; 53.5
+07235; Trier-Saarburg, Landkreis; 73.6
+07311; Frankenthal (Pfalz), Kreisfreie Stadt; 65.3
+07312; Kaiserslautern, Kreisfreie Stadt; 56.7
+07313; Landau in der Pfalz, Kreisfreie Stadt; 79.7
+07314; Ludwigshafen am Rhein, Kreisfreie Stadt; 53.4
+07315; Mainz, Kreisfreie Stadt; 69.1
+07316; Neustadt an der Weinstraße, Kreisfreie Stadt; 73.7
+07317; Pirmasens, Kreisfreie Stadt; 55.9
+07318; Speyer, Kreisfreie Stadt; 51.9
+07319; Worms, Kreisfreie Stadt; 51.9
+07320; Zweibrücken, Kreisfreie Stadt; 64.1
+07331; Alzey-Worms, Landkreis; 57.1
+07332; Bad Dürkheim, Landkreis; 60.9
+07333; Donnersbergkreis; 67.1
+07334; Germersheim, Landkreis; 58.6
+07335; Kaiserslautern, Landkreis; 73.1
+07336; Kusel, Landkreis; 63.0
+07337; Südliche Weinstraße, Landkreis; 56.5
+07338; Rhein-Pfalz-Kreis; 65.6
+07339; Mainz-Bingen, Landkreis; 63.4
+07340; Südwestpfalz, Landkreis; 61.5
+08111; Stuttgart, Landeshauptstadt, Stadtkreis; 58.9
+08115; Böblingen, Landkreis; 59.5
+08116; Esslingen, Landkreis; 63.6
+08117; Göppingen, Landkreis; 54.5
+08118; Ludwigsburg, Landkreis; 61.1
+08119; Rems-Murr-Kreis, Landkreis; 61.4
+08121; Heilbronn, Stadtkreis; 67.3
+08125; Heilbronn, Landkreis; 62.8
+08126; Hohenlohekreis, Landkreis; 70.5
+08127; Schwäbisch Hall, Landkreis; 56.2
+08128; Main-Tauber-Kreis, Landkreis; 60.2
+08135; Heidenheim, Landkreis; 67.4
+08136; Ostalbkreis, Landkreis; 64.9
+08211; Baden-Baden, Stadtkreis; 72.0
+08212; Karlsruhe, Stadtkreis; 58.7
+08215; Karlsruhe, Landkreis; 67.7
+08216; Rastatt, Landkreis; 62.7
+08221; Heidelberg, Stadtkreis; 56.7
+08222; Mannheim, Stadtkreis; 63.1
+08225; Neckar-Odenwald-Kreis, Landkreis; 60.3
+08226; Rhein-Neckar-Kreis, Landkreis; 60.4
+08231; Pforzheim, Stadtkreis; 61.4
+08235; Calw, Landkreis; 62.5
+08236; Enzkreis, Landkreis; 60.4
+08237; Freudenstadt, Landkreis; 58.2
+08311; Freiburg im Breisgau, Stadtkreis; 67.6
+08315; Breisgau-Hochschwarzwald, Landkreis; 75.4
+08316; Emmendingen, Landkreis; 70.9
+08317; Ortenaukreis, Landkreis; 64.3
+08325; Rottweil, Landkreis; 56.5
+08326; Schwarzwald-Baar-Kreis, Landkreis; 57.6
+08327; Tuttlingen, Landkreis; 63.4
+08335; Konstanz, Landkreis; 39.9
+08336; Lörrach, Landkreis; 64.7
+08337; Waldshut, Landkreis; 61.2
+08415; Reutlingen, Landkreis; 58.7
+08416; Tübingen, Landkreis; 68.3
+08417; Zollernalbkreis, Landkreis; 64.2
+08421; Ulm, Stadtkreis; 67.7
+08425; Alb-Donau-Kreis, Landkreis; 62.8
+08426; Biberach, Landkreis; 68.6
+08435; Bodenseekreis, Landkreis; 66.0
+08436; Ravensburg, Landkreis; 64.4
+08437; Sigmaringen, Landkreis; 64.8
+09161; Ingolstadt; 64.2
+09162; München, Landeshauptstadt; 65.8
+09163; Rosenheim; 55.3
+09171; Altötting, Landkreis; 69.6
+09172; Berchtesgadener Land, Landkreis; 62.5
+09173; Bad Tölz-Wolfratshausen, Landkreis; 68.5
+09174; Dachau, Landkreis; 66.7
+09175; Ebersberg, Landkreis; 64.3
+09176; Eichstätt, Landkreis; 70.6
+09177; Erding, Landkreis; 75.6
+09178; Freising, Landkreis; 69.6
+09179; Fürstenfeldbruck, Landkreis; 62.1
+09180; Garmisch-Partenkirchen, Landkreis; 64.1
+09181; Landsberg am Lech, Landkreis; 71.1
+09182; Miesbach, Landkreis; 79.5
+09183; Mühldorf a.Inn, Landkreis; 61.8
+09184; München, Landkreis; 65.0
+09185; Neuburg-Schrobenhausen, Landkreis; 56.2
+09186; Pfaffenhofen a.d.Ilm, Landkreis; 71.0
+09187; Rosenheim, Landkreis; 59.3
+09188; Starnberg, Landkreis; 61.8
+09189; Traunstein, Landkreis; 67.4
+09190; Weilheim-Schongau, Landkreis; 66.2
+09261; Landshut; 58.3
+09262; Passau; 51.2
+09263; Straubing; 77.1
+09271; Deggendorf, Landkreis; 69.6
+09272; Freyung-Grafenau, Landkreis; 73.5
+09273; Kelheim, Landkreis; 66.3
+09274; Landshut, Landkreis; 67.9
+09275; Passau, Landkreis; 70.4
+09276; Regen, Landkreis; 72.4
+09277; Rottal-Inn, Landkreis; 65.1
+09278; Straubing-Bogen, Landkreis; 74.4
+09279; Dingolfing-Landau, Landkreis; 69.7
+09361; Amberg; 63.2
+09362; Regensburg; 63.9
+09363; Weiden i.d.OPf.; 71.1
+09371; Amberg-Sulzbach, Landkreis; 56.0
+09372; Cham, Landkreis; 61.8
+09373; Neumarkt i.d.OPf., Landkreis; 70.6
+09374; Neustadt a.d.Waldnaab, Landkreis; 63.3
+09375; Regensburg, Landkreis; 64.3
+09376; Schwandorf, Landkreis; 65.5
+09377; Tirschenreuth, Landkreis; 59.1
+09461; Bamberg; 54.5
+09462; Bayreuth; 58.8
+09463; Coburg; 74.1
+09464; Hof; 69.7
+09471; Bamberg, Landkreis; 65.2
+09472; Bayreuth, Landkreis; 64.0
+09473; Coburg, Landkreis; 76.2
+09474; Forchheim, Landkreis; 59.2
+09475; Hof, Landkreis; 62.8
+09476; Kronach, Landkreis; 67.7
+09477; Kulmbach, Landkreis; 69.0
+09478; Lichtenfels, Landkreis; 73.3
+09479; Wunsiedel i.Fichtelgebirge, Landkreis; 67.9
+09561; Ansbach; 66.7
+09562; Erlangen; 60.6
+09563; Fürth; 61.0
+09564; Nürnberg; 64.6
+09565; Schwabach; 66.0
+09571; Ansbach, Landkreis; 56.6
+09572; Erlangen-Höchstadt, Landkreis; 57.4
+09573; Fürth, Landkreis; 83.0
+09574; Nürnberger Land, Landkreis; 76.1
+09575; Neustadt a.d.Aisch-Bad Windsheim, Landkreis; 66.3
+09576; Roth, Landkreis; 66.3
+09577; Weißenburg-Gunzenhausen, Landkreis; 68.1
+09661; Aschaffenburg; 60.5
+09662; Schweinfurt; 67.0
+09663; Würzburg; 67.0
+09671; Aschaffenburg, Landkreis; 60.8
+09672; Bad Kissingen, Landkreis; 65.8
+09673; Rhön-Grabfeld, Landkreis; 71.9
+09674; Haßberge, Landkreis; 56.8
+09675; Kitzingen, Landkreis; 72.5
+09676; Miltenberg, Landkreis; 62.3
+09677; Main-Spessart, Landkreis; 69.2
+09678; Schweinfurt, Landkreis; 63.5
+09679; Würzburg, Landkreis; 59.7
+09761; Augsburg; 69.7
+09762; Kaufbeuren; 64.0
+09763; Kempten (Allgäu); 65.1
+09764; Memmingen; 70.6
+09771; Aichach-Friedberg, Landkreis; 63.2
+09772; Augsburg, Landkreis; 59.9
+09773; Dillingen a.d.Donau, Landkreis; 56.7
+09774; Günzburg, Landkreis; 62.6
+09775; Neu-Ulm, Landkreis; 69.7
+09776; Lindau (Bodensee), Landkreis; 72.2
+09777; Ostallgäu, Landkreis; 61.1
+09778; Unterallgäu, Landkreis; 69.6
+09779; Donau-Ries, Landkreis; 72.9
+09780; Oberallgäu, Landkreis; 69.5
+10041; Saarbrücken, Regionalverband; 62.0
+10042; Merzig-Wadern, Landkreis; 67.9
+10043; Neunkirchen, Landkreis; 77.9
+10044; Saarlouis, Landkreis; 63.9
+10045; Saarpfalz-Kreis; 70.3
+10046; St. Wendel, Landkreis; 54.8
+11000; Berlin; 57.7
+12051; Brandenburg an der Havel, Kreisfreie Stadt; 65.2
+12052; Cottbus, Kreisfreie Stadt; 64.7
+12053; Frankfurt (Oder), Kreisfreie Stadt; 64.5
+12054; Potsdam, Kreisfreie Stadt; 55.7
+12060; Barnim, Landkreis; 66.3
+12061; Dahme-Spreewald, Landkreis; 56.5
+12062; Elbe-Elster, Landkreis; 70.7
+12063; Havelland, Landkreis; 63.4
+12064; Märkisch-Oderland, Landkreis; 68.9
+12065; Oberhavel, Landkreis; 62.5
+12066; Oberspreewald-Lausitz, Landkreis; 61.6
+12067; Oder-Spree, Landkreis; 60.3
+12068; Ostprignitz-Ruppin, Landkreis; 64.8
+12069; Potsdam-Mittelmark, Landkreis; 63.2
+12070; Prignitz, Landkreis; 68.3
+12071; Spree-Neiße, Landkreis; 79.0
+12072; Teltow-Fläming, Landkreis; 65.8
+12073; Uckermark, Landkreis; 66.4
+13003; Kreisfreie Stadt Rostock, Hansestadt; 63.1
+13004; Kreisfreie Stadt Schwerin, Landeshauptstadt; 57.5
+13071; Landkreis Mecklenburgische Seenplatte; 62.1
+13072; Landkreis Rostock; 75.2
+13073; Landkreis Vorpommern-Rügen; 65.1
+13074; Landkreis Nordwestmecklenburg; 68.6
+13075; Landkreis Vorpommern-Greifswald; 58.1
+13076; Landkreis Ludwigslust-Parchim; 64.8
+14511; Chemnitz, Stadt; 57.7
+14521; Erzgebirgskreis; 60.7
+14522; Mittelsachsen, Landkreis; 60.1
+14523; Vogtlandkreis; 63.4
+14524; Zwickau, Landkreis; 63.1
+14612; Dresden, Stadt; 62.6
+14625; Bautzen, Landkreis; 65.9
+14626; Görlitz, Landkreis; 56.6
+14627; Meißen, Landkreis; 69.2
+14628; Sächsische Schweiz-Osterzgebirge, Landkreis; 61.0
+14713; Leipzig, Stadt; 59.1
+14729; Leipzig, Landkreis; 64.0
+14730; Nordsachsen, Landkreis; 62.7
+15001; Dessau-Roßlau, Kreisfreie Stadt; 53.3
+15002; Halle (Saale), Kreisfreie Stadt; 63.1
+15003; Magdeburg, Kreisfreie Stadt; 63.6
+15081; Altmarkkreis Salzwedel; 62.0
+15082; Anhalt-Bitterfeld, Landkreis; 64.5
+15083; Börde, Landkreis; 67.0
+15084; Burgenlandkreis; 58.5
+15085; Harz, Landkreis; 59.6
+15086; Jerichower Land, Landkreis; 73.6
+15087; Mansfeld-Südharz, Landkreis; 55.2
+15088; Saalekreis; 69.2
+15089; Salzlandkreis; 63.8
+15090; Stendal, Landkreis; 65.0
+15091; Wittenberg, Landkreis; 63.4
+16051; Erfurt, krsfr. Stadt; 64.7
+16052; Gera, krsfr. Stadt; 67.7
+16053; Jena, krsfr. Stadt; 46.2
+16054; Suhl, krsfr. Stadt; 82.4
+16055; Weimar, krsfr. Stadt; 66.1
+16056; Eisenach, krsfr. Stadt; 69.4
+16061; Eichsfeld, Kreis; 65.5
+16062; Nordhausen, Kreis; 66.7
+16063; Wartburgkreis; 71.2
+16064; Unstrut-Hainich-Kreis; 63.1
+16065; Kyffhäuserkreis; 66.7
+16066; Schmalkalden-Meiningen, Kreis; 65.6
+16067; Gotha, Kreis; 72.9
+16068; Sömmerda, Kreis; 72.7
+16069; Hildburghausen, Kreis; 67.4
+16070; Ilm-Kreis; 63.5
+16071; Weimarer Land, Kreis; 64.4
+16072; Sonneberg, Kreis; 65.1
+16073; Saalfeld-Rudolstadt, Kreis; 67.2
+16074; Saale-Holzland-Kreis; 69.6
+16075; Saale-Orla-Kreis; 68.8
+16076; Greiz, Kreis; 77.8
+16077; Altenburger Land, Kreis; 70.0
